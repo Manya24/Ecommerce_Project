@@ -134,3 +134,15 @@ RAZORPAY_SECRET = "9w4v0HhNvvEv4e9ESGuwBVty"
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# settings.py
+
+# ...
+
+# Silk settings
+SILKY_PYTHON_PROFILER = True
+SILKY_PYTHON_PROFILER_BINARY = True
+SILKY_MAX_RECORDED_REQUESTS = 10
+
+# ...
+
